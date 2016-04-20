@@ -1,0 +1,1335 @@
+20160419161443	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:14:43
+20160419161443	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:14:43
+20160419161458	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:14:58
+20160419161458	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:14:58
+20160419161513	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:15:13
+20160419161513	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:15:13
+20160419161528	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:15:28
+20160419161528	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:15:28
+20160419161543	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:15:43
+20160419161543	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:15:43
+20160419161546	[UCS][10100] Processing SessionRequest
+20160419161546	[UCS][20100] Processing SessionSuccess
+20160419161546	[UCS][10101] Processing LoginMessage
+20160419161547	[UCS][UCSDB] Saving new account to database (player id: 236240048158)
+20160419161547	Starting saving player NoNameYet from memory to database at 19.04.2016 16:15:47
+20160419161547	Finished saving player NoNameYet from memory to database at 19.04.2016 16:15:47
+20160419161547	[UCS][20104] Processing LoginOkMessage (236240048158, NoNameYet)
+20160419161548	[UCS][24101] Processing OwnHomeDataMessage (236240048158, NoNameYet)
+20160419161548	[UCS][24340] Processing BookmarkMessage (236240048158, NoNameYet)
+20160419161554	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419161554	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419161554	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419161558	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419161558	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419161558	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:15:58
+20160419161558	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:15:58
+20160419161559	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419161603	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419161603	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419161604	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419161607	[UCS][10212] Processing ChangeAvatarNameMessage (236240048158, NoNameYet)
+20160419161607	[UCS][24111] Processing AvatarNameChangeOkMessage (236240048158, Megamike)
+20160419161608	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161608	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161608	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161609	[UCS][10113] Processing GetDeviceTokenMessage (236240048158, Megamike)
+20160419161609	Starting saving player Megamike from memory to database at 19.04.2016 16:16:09
+20160419161609	Finished saving player Megamike from memory to database at 19.04.2016 16:16:09
+20160419161609	[UCS][20113] Processing SetDeviceTokenMessage (236240048158, Megamike)
+20160419161609	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161613	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161613	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161613	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:16:13
+20160419161613	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:16:13
+20160419161614	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161617	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161617		 Processing MissionProgressCommand
+20160419161618	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161618	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161619	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161619		 Processing ClaimAchievementRewardCommand
+20160419161623	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161623	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161624	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161628	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161628		 Processing ClaimAchievementRewardCommand
+20160419161628	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161628	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161628	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:16:28
+20160419161628	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:16:28
+20160419161629	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161633	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161633	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161634	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161634		 Processing ClaimAchievementRewardCommand
+20160419161638	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161638	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161639	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161643	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161643	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161643	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:16:43
+20160419161643	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:16:43
+20160419161643	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161643		 Processing UnlockBuildingCommand
+20160419161648	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161648	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161649	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161653	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161653		 Processing UpgradeBuildingCommand
+20160419161653	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161653	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161655	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161655		 Processing SpeedUpConstructionCommand
+20160419161658	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:16:58
+20160419161658	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:16:58
+20160419161658	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161658	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161659	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161659		 Processing UpgradeBuildingCommand
+20160419161702	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161702		 Processing SpeedUpConstructionCommand
+20160419161703	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161703	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161704	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161708	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161708		 Processing UpgradeBuildingCommand
+20160419161708	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161708	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161710	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161710		 Processing SpeedUpConstructionCommand
+20160419161713	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:17:13
+20160419161713	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:17:13
+20160419161713	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161713	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161714	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161718	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161718		 Processing UpgradeBuildingCommand
+20160419161718	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161718	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161719	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161719		 Processing SpeedUpConstructionCommand
+20160419161722	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161722		 Processing UpgradeBuildingCommand
+20160419161723	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161723	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161724	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161724		 Processing SpeedUpConstructionCommand
+20160419161727	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161727		 Processing UpgradeBuildingCommand
+20160419161728	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:17:28
+20160419161728	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:17:28
+20160419161728	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161728	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161729	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161729		 Processing SpeedUpConstructionCommand
+20160419161732	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161732		 Processing GetVillageLayoutsCommand
+20160419161733	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161733	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161734	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161737	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161737		 Processing ClaimAchievementRewardCommand
+20160419161738	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161738	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161739	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161743	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:17:43
+20160419161743	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:17:43
+20160419161743	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161743	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161744	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161746	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161746		 Processing UpgradeBuildingCommand
+20160419161748	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161748		 Processing SpeedUpConstructionCommand
+20160419161748	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161748	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161749	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161753	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161753		 Processing UpgradeBuildingCommand
+20160419161753	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161753	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161755	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161755		 Processing SpeedUpConstructionCommand
+20160419161757	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161757		 Processing UpgradeBuildingCommand
+20160419161758	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:17:58
+20160419161758	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:17:58
+20160419161758	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161758	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161758	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161758		 Processing SpeedUpConstructionCommand
+20160419161801	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161801		 Processing UpgradeBuildingCommand
+20160419161802	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161802		 Processing SpeedUpConstructionCommand
+20160419161803	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161803	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161804	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161804		 Processing UpgradeBuildingCommand
+20160419161806	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161806		 Processing SpeedUpConstructionCommand
+20160419161808	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161808		 Processing UpgradeBuildingCommand
+20160419161808	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161808	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161809	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161809		 Processing SpeedUpConstructionCommand
+20160419161812	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161812		 Processing UpgradeBuildingCommand
+20160419161813	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:18:13
+20160419161813	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:18:13
+20160419161813	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161813	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161813	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161813		 Processing SpeedUpConstructionCommand
+20160419161815	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161815		 Processing UpgradeBuildingCommand
+20160419161817	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161817		 Processing SpeedUpConstructionCommand
+20160419161818	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161818	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161819	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161819		 Processing UpgradeBuildingCommand
+20160419161820	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161820		 Processing SpeedUpConstructionCommand
+20160419161822	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161822		 Processing UpgradeBuildingCommand
+20160419161823	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161823	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161824	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161824		 Processing SpeedUpConstructionCommand
+20160419161828	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:18:28
+20160419161828	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:18:28
+20160419161828	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161828	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161829	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161829		 Processing UpgradeBuildingCommand
+20160419161830	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161830		 Processing SpeedUpConstructionCommand
+20160419161833	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161833	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161834	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161838	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161838	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161839	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161843	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:18:43
+20160419161843	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:18:43
+20160419161843	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161843	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161844	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161848	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161848	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161849	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161855	[UCS][10100] Processing SessionRequest
+20160419161855	[UCS][20100] Processing SessionSuccess
+20160419161855	[UCS][10101] Processing LoginMessage
+20160419161855	[UCS][20104] Processing LoginOkMessage (236240048158, Megamike)
+20160419161855	[UCS][24101] Processing OwnHomeDataMessage (236240048158, Megamike)
+20160419161855	[UCS][24340] Processing BookmarkMessage (236240048158, Megamike)
+20160419161858	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:18:58
+20160419161858	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:18:58
+20160419161902	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161902	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161904	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161905	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161905	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161907	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161910	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161910	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161912	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161913	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:19:13
+20160419161913	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:19:13
+20160419161915	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161915	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161917	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161919	[UCS][10113] Processing GetDeviceTokenMessage (236240048158, Megamike)
+20160419161919	Starting saving player Megamike from memory to database at 19.04.2016 16:19:19
+20160419161919	Finished saving player Megamike from memory to database at 19.04.2016 16:19:19
+20160419161919	[UCS][20113] Processing SetDeviceTokenMessage (236240048158, Megamike)
+20160419161920	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161921	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161921	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161922	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161926	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161926	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161927	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161927		 Processing MyLeagueCommand
+20160419161928	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:19:28
+20160419161928	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:19:28
+20160419161931	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419161931	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419161932	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419161943	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:19:43
+20160419161943	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:19:43
+20160419161958	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:19:58
+20160419161958	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:19:58
+20160419162013	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:20:13
+20160419162013	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:20:13
+20160419162028	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:20:28
+20160419162028	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:20:28
+20160419162043	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:20:43
+20160419162043	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:20:43
+20160419162058	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:20:58
+20160419162058	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:20:58
+20160419162113	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:21:13
+20160419162113	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:21:13
+20160419162128	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:21:28
+20160419162128	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:21:28
+20160419162143	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:21:43
+20160419162143	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:21:43
+20160419162158	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:21:58
+20160419162158	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:21:58
+20160419162213	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:22:13
+20160419162213	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:22:13
+20160419162228	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:22:28
+20160419162228	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:22:28
+20160419162243	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:22:43
+20160419162243	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:22:43
+20160419162258	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:22:58
+20160419162258	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:22:58
+20160419162313	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:23:13
+20160419162313	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:23:13
+20160419162328	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:23:28
+20160419162328	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:23:28
+20160419162413	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162413	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:24:13
+20160419162428	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162428	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:24:28
+20160419162443	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162443	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:24:43
+20160419162458	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162458	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:24:58
+20160419162513	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162513	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:25:13
+20160419162528	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162528	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:25:28
+20160419162543	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162543	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:25:43
+20160419162558	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162558	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:25:58
+20160419162613	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162613	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:26:13
+20160419162628	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162628	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:26:28
+20160419162643	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162643	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:26:43
+20160419162658	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162658	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:26:58
+20160419162714	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162714	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:27:14
+20160419162728	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162728	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:27:28
+20160419162743	[UCS][UCSDB] An exception occured during Save processing for avatars :System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---> System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   в System.Data.SQLite.SQLiteDataReader.NextResult()
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   в System.Data.SQLite.SQLiteTransaction..ctor(SQLiteConnection connection, Boolean deferredLock)
+   в System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction(IsolationLevel isolationLevel)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<BeginTransaction>b__0(DbConnection t, BeginTransactionInterceptionContext c)
+   в System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   в System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.<>c__DisplayClassf.<BeginDbTransaction>b__d()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   в System.Data.Common.DbConnection.BeginTransaction()
+   в System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   в System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   в System.Data.Entity.Infrastructure.DefaultExecutionStrategy.Execute[TResult](Func`1 operation)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   в System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   в System.Data.Entity.Internal.InternalContext.SaveChanges()
+   в System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   в System.Data.Entity.DbContext.SaveChanges()
+   в UCS.Core.DatabaseManager.Save(List`1 avatars) в M:\Mike\COC Server\UCS-0.6.5\Ultrapowa Clash Server\Core\DatabaseManager.cs:строка 355
+20160419162743	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:27:43
+20160419162751	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:27:51
+20160419162751	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:27:51
+20160419162752	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:27:52
+20160419162752	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:27:52
+20160419162821	[UCS][10100] Processing SessionRequest
+20160419162821	[UCS][20100] Processing SessionSuccess
+20160419162821	[UCS][10101] Processing LoginMessage
+20160419162821	[UCS][20103] Processing LoginFailedMessage
+20160419162826	[UCS][10100] Processing SessionRequest
+20160419162826	[UCS][20100] Processing SessionSuccess
+20160419162826	[UCS][10101] Processing LoginMessage
+20160419162826	[UCS][20103] Processing LoginFailedMessage
+20160419162934	[UCS][10100] Processing SessionRequest
+20160419162934	[UCS][20100] Processing SessionSuccess
+20160419162935	[UCS][10101] Processing LoginMessage
+20160419162935	[UCS][20103] Processing LoginFailedMessage
+20160419162939	[UCS][10100] Processing SessionRequest
+20160419162939	[UCS][20100] Processing SessionSuccess
+20160419162939	[UCS][10101] Processing LoginMessage
+20160419162939	[UCS][UCSDB] Saving new account to database (player id: 236240048158)
+20160419162940	Starting saving player NoNameYet from memory to database at 19.04.2016 16:29:40
+20160419162940	Finished saving player NoNameYet from memory to database at 19.04.2016 16:29:40
+20160419162940	[UCS][20104] Processing LoginOkMessage (236240048158, NoNameYet)
+20160419162940	[UCS][24101] Processing OwnHomeDataMessage (236240048158, NoNameYet)
+20160419162940	[UCS][24340] Processing BookmarkMessage (236240048158, NoNameYet)
+20160419162946	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419162946	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419162948	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419162950	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419162950	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419162951	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419162955	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419162955	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419162956	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163000	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:30:00
+20160419163000	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:30:00
+20160419163000	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163000	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163001	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163002	[UCS][10113] Processing GetDeviceTokenMessage (236240048158, NoNameYet)
+20160419163002	Starting saving player NoNameYet from memory to database at 19.04.2016 16:30:02
+20160419163002	Finished saving player NoNameYet from memory to database at 19.04.2016 16:30:02
+20160419163002	[UCS][20113] Processing SetDeviceTokenMessage (236240048158, NoNameYet)
+20160419163003	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163005	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163005	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163006	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163010	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163010	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163011	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163015	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:30:15
+20160419163015	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:30:15
+20160419163015	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163015	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163016	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163020	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163020	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163022	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163025	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163025	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163027	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163030	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:30:30
+20160419163030	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:30:30
+20160419163030	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163030	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163032	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163036	[UCS][10108] Processing KeepAliveMessage (236240048158, NoNameYet)
+20160419163036	[UCS][20108] Processing KeepAliveOkMessage (236240048158, NoNameYet)
+20160419163037	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, NoNameYet)
+20160419163039	[UCS][10212] Processing ChangeAvatarNameMessage (236240048158, NoNameYet)
+20160419163039	[UCS][24111] Processing AvatarNameChangeOkMessage (236240048158, Megamike)
+20160419163040	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419163041	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419163041	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419163042	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419163045	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:30:45
+20160419163045	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:30:45
+20160419163046	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419163046	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419163047	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419163047		 Processing MissionProgressCommand
+20160419163048	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419163048		 Processing ClaimAchievementRewardCommand
+20160419163051	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419163051	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419163052	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419163052		 Processing ClaimAchievementRewardCommand
+20160419163056	[UCS][10108] Processing KeepAliveMessage (236240048158, Megamike)
+20160419163056	[UCS][20108] Processing KeepAliveOkMessage (236240048158, Megamike)
+20160419163057	[UCS][14102] Processing ExecuteCommandsMessage (236240048158, Megamike)
+20160419163100	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:31:00
+20160419163100	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:31:00
+20160419163115	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:31:15
+20160419163115	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:31:15
+20160419163130	[UCS][UCSDB] All players in memory has been saved to database at 19.04.2016 16:31:30
+20160419163130	[UCS][UCSDB] All alliances in memory has been saved to database at 19.04.2016 16:31:30

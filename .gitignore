@@ -1,6 +1,11 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+Ultrapowa Clash Server/obj/
+packages/
+ucspackages/
+*/obj/*
+Ultrapowa Clash Server/bin/Debug/obj
 
 # Folder config file
 Desktop.ini
